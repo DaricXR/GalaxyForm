@@ -1,9 +1,9 @@
 const cacheName = "AR Glasses Joe Upwork-AR Glasses-0.1";
 const contentToCache = [
     "Build/GalaxyForm.loader.js",
-    "Build/GalaxyForm.framework.js.gz",
-    "Build/GalaxyForm.data.gz",
-    "Build/GalaxyForm.wasm.gz",
+    "Build/GalaxyForm.framework.js",
+    "Build/GalaxyForm.data",
+    "Build/GalaxyForm.wasm",
     "TemplateData/style.css"
 
 ];
